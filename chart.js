@@ -54,7 +54,7 @@ new Chart(document.getElementById("line-chart"), {
         ]
     },
     options: {
-        responsive: true,
+        responsive: false,
         layout: {
             padding: {
                 left: 10,
